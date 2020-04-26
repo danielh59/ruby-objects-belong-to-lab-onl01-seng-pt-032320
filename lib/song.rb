@@ -6,8 +6,8 @@ class Song
   @name
   @title
   end
-def title
-@title
+def title(title)
+@title = title
 end
 
 end
