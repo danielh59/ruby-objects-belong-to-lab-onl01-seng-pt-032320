@@ -1,13 +1,9 @@
 require 'pry'
 class Song
-  attr_accessor :name
+  attr_accessor :title
 
   def  initialize
   @name
-  @title
-  end
-def title(title)
-@title = title
-end
+end 
 
 end
