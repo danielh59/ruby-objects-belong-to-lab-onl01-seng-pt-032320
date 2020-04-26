@@ -6,7 +6,7 @@ class Song
   @name
   end
 def title
-binding.pry  
+binding.pry
 title
 end
 
