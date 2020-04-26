@@ -4,9 +4,10 @@ class Song
 
   def  initialize
   @name
+  @title
   end
 def title
-title
+@title
 end
 
 end
